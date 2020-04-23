@@ -1,2 +1,2 @@
 # git_test
-Git basics
+Git basics - tackling the workflow
